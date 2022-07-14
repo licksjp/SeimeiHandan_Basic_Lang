@@ -1,0 +1,1 @@
+# SeimeiHandan_Basic_Lang
